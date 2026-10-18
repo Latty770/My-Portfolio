@@ -2,7 +2,7 @@ export const portfolio = {
   profile: {
     name: 'Reagan Munene',
     fullName: 'Reagan Munene Mwiti',
-    title: 'Full-Stack Engineer & Founder',
+    title: 'Full-Stack Engineer, Product Manager & Founder',
     tagline: 'I build software people actually run their businesses on.',
     location: 'Kenya',
     phone: '+254 794 355 647',
@@ -11,11 +11,11 @@ export const portfolio = {
     linkedin: 'https://www.linkedin.com/in/reagan-munene',
     website: 'https://reaganmunene.netlify.app',
     company: 'ZERION TECH SYSTEMS',
-    companyRole: 'Proprietor · Full-Stack Software Engineer',
+    companyRole: 'Proprietor · Full-Stack Software Engineer · Product Manager',
     companyUrl: 'https://zerion-website-frontend.vercel.app/',
     about: [
       'Fourth-year Business Information Technology student at Kabarak University, and founder of ZERION TECH SYSTEMS — a software company building platforms for SACCOs, hospitality, and enterprise operations.',
-      'I work end to end: React and React Native on the front, Node.js, Express, NestJS, and Supabase on the back, with deployment on Render, Vercel, and Cloudflare. Recent work includes Signvrse Ltd (assistive tech and KSL tooling) and shipping Z Crew App, Z Management Hub, Z REST POS, and Zerion ERP into daily use.',
+      'I work end to end: React and React Native on the front, Node.js, Express, NestJS, and Supabase on the back, with deployment on Render, Vercel, and Cloudflare. Recent work includes Signvrse Ltd on tesp360 (assistive tech and KSL tooling, with product management) and shipping Z Crew App, Z Management Hub, Z REST POS, and Zerion ERP into daily use.',
       'I learn fast, ship without babysitting, and care about accessibility, operational clarity, and financial accountability in the systems I leave behind.',
     ],
   },
@@ -43,12 +43,13 @@ export const portfolio = {
   ],
   experience: [
     {
-      role: 'Founder & Full-Stack Engineer',
+      role: 'Founder, Full-Stack Engineer & Product Manager',
       org: 'ZERION TECH SYSTEMS',
       period: 'Present',
       summary:
-        'Design and ship industry platforms for transport SACCOs, food service, and enterprise clients — from product architecture to deployment.',
+        'Own product direction and engineering for industry platforms serving transport SACCOs, food service, and enterprise clients — from discovery and roadmap through architecture and deployment.',
       highlights: [
+        'Define product priorities and roadmaps across Zerion platforms based on client operations',
         'Built Z Crew App with Z Booking and Parcel Shop for Chuka Ungwana Sacco',
         'Shipped Z Management Hub for SACCO admin, fleet, finance, and route performance',
         'Delivered Z REST POS for hotels and restaurants, including The Duos Kitchen',
@@ -56,13 +57,14 @@ export const portfolio = {
       ],
     },
     {
-      role: 'Software Engineering Intern',
+      role: 'Software Engineering Intern · Product Management',
       org: 'Signvrse Ltd',
       period: 'May 2026 – July 2026',
       summary:
-        'Full-stack engineering on accessibility-focused products converting speech and text into Kenyan Sign Language experiences.',
+        'Full-stack engineering and product management on tesp360 — Signvrse’s platform for converting speech and text into Kenyan Sign Language experiences.',
       highlights: [
-        'Built React.js features and Node/Express/NestJS services',
+        'Supported product planning and feature prioritisation for tesp360 accessibility workflows',
+        'Built React.js features and Node/Express/NestJS services for tesp360',
         'Worked with durable workflows, video rendering, and sign-language stitching',
         'Prepared 3D assets (FBX → GLB) and cleaned animations in iClone',
         'Deployed with Cloudflare and added JWT token-bucket API rate limiting',
@@ -181,11 +183,11 @@ export const portfolio = {
       image: null,
     },
     {
-      title: 'Signvrse Accessibility Stack',
+      title: 'tesp360 · Signvrse',
       kind: 'Internship',
       description:
-        'Contributed to KSL translation tooling — React frontends, NestJS APIs, durable workflows, BVH/FBX animation pipelines, and Cloudflare deploys.',
-      stack: ['React', 'NestJS', 'Inngest', '3D'],
+        'Engineering and product management on tesp360 — React frontends, NestJS APIs, durable workflows, BVH/FBX animation pipelines, and Cloudflare deploys for Kenyan Sign Language translation.',
+      stack: ['tesp360', 'React', 'NestJS', 'Product', '3D'],
       link: null,
       image: null,
     },

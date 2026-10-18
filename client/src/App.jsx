@@ -13,7 +13,7 @@ const fallback = {
   profile: {
     name: 'Reagan Munene',
     fullName: 'Reagan Munene Mwiti',
-    title: 'Full-Stack Engineer & Founder',
+    title: 'Full-Stack Engineer, Product Manager & Founder',
     tagline: 'I build software people actually run their businesses on.',
     location: 'Kenya',
     phone: '+254 794 355 647',
@@ -21,7 +21,7 @@ const fallback = {
     github: 'https://github.com/Latty770',
     linkedin: 'https://www.linkedin.com/in/reagan-munene',
     company: 'ZERION TECH SYSTEMS',
-    companyRole: 'Proprietor · Full-Stack Software Engineer',
+    companyRole: 'Proprietor · Full-Stack Software Engineer · Product Manager',
     companyUrl: 'https://zerion-website-frontend.vercel.app/',
     about: [
       'Fourth-year Business Information Technology student at Kabarak University, and founder of ZERION TECH SYSTEMS.',

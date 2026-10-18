@@ -80,7 +80,9 @@ export default function App() {
     <SafeAreaView style={styles.safe}>
       <StatusBar barStyle="dark-content" />
       <ScrollView contentContainerStyle={styles.content}>
-        <Text style={styles.kicker}>{profile.companyRole || 'Full-Stack Engineer & Founder'}</Text>
+        <Text style={styles.kicker}>
+          {profile.companyRole || 'Proprietor · Full-Stack Software Engineer · Product Manager'}
+        </Text>
         <Text style={styles.logo}>{profile.name || 'Reagan Munene'}</Text>
         <Text style={styles.tagline}>{profile.tagline}</Text>
         <Text style={styles.body}>

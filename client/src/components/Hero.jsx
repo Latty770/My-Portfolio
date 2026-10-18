@@ -7,7 +7,9 @@ export default function Hero({ profile }) {
 
       <div className="container hero-grid">
         <div className="hero-brand">
-          <p className="hero-kicker">{profile?.companyRole || 'Full-Stack Engineer & Founder'}</p>
+          <p className="hero-kicker">
+            {profile?.companyRole || 'Proprietor · Full-Stack Software Engineer · Product Manager'}
+          </p>
           <h1 className="hero-name">{name}</h1>
         </div>
 
