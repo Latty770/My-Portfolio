@@ -1,0 +1,18 @@
+{
+  "name": "reagan-munene-portfolio",
+  "private": true,
+  "scripts": {
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "dev:mobile": "npm start --prefix mobile",
+    "start:server": "npm start --prefix server",
+    "sync:portfolio": "node --input-type=module -e \"import { writeFileSync } from 'fs'; import { portfolio } from './server/src/data/portfolio.js'; writeFileSync('netlify/functions/portfolio-data.json', JSON.stringify(portfolio, null, 2));\"",
+    "build:client": "npm run build --prefix client",
+    "build": "npm run sync:portfolio && npm run build:client",
+    "deploy": "npm run build && npx netlify deploy --prod",
+    "deploy:preview": "npm run build && npx netlify deploy"
+  },
+  "devDependencies": {
+    "netlify-cli": "^27.13.0"
+  }
+}

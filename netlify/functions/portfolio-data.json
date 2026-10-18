@@ -1,0 +1,243 @@
+{
+  "profile": {
+    "name": "Reagan Munene",
+    "fullName": "Reagan Munene Mwiti",
+    "title": "Full-Stack Engineer & Founder",
+    "tagline": "I build software people actually run their businesses on.",
+    "location": "Kenya",
+    "phone": "+254 794 355 647",
+    "email": "reaganmunene483@gmail.com",
+    "github": "https://github.com/Latty770",
+    "linkedin": "https://www.linkedin.com/in/reagan-munene",
+    "website": "https://reaganmunene.netlify.app",
+    "company": "ZERION TECH SYSTEMS",
+    "companyRole": "Proprietor · Full-Stack Software Engineer",
+    "companyUrl": "https://zerion-website-frontend.vercel.app/",
+    "about": [
+      "Fourth-year Business Information Technology student at Kabarak University, and founder of ZERION TECH SYSTEMS — a software company building platforms for SACCOs, hospitality, and enterprise operations.",
+      "I work end to end: React and React Native on the front, Node.js, Express, NestJS, and Supabase on the back, with deployment on Render, Vercel, and Cloudflare. Recent work includes Signvrse Ltd (assistive tech and KSL tooling) and shipping Z Crew App, Z Management Hub, Z REST POS, and Zerion ERP into daily use.",
+      "I learn fast, ship without babysitting, and care about accessibility, operational clarity, and financial accountability in the systems I leave behind."
+    ]
+  },
+  "skills": [
+    {
+      "group": "Languages",
+      "items": [
+        "JavaScript",
+        "Python",
+        "Dart",
+        "HTML",
+        "CSS",
+        "SQL"
+      ]
+    },
+    {
+      "group": "Frontend & Mobile",
+      "items": [
+        "React.js",
+        "React Native",
+        "Flutter",
+        "Responsive UI"
+      ]
+    },
+    {
+      "group": "Backend & Data",
+      "items": [
+        "Node.js",
+        "Express",
+        "NestJS",
+        "Django",
+        "Supabase",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "group": "Tools & Delivery",
+      "items": [
+        "Git",
+        "Jira",
+        "n8n",
+        "Vercel",
+        "Render",
+        "Cloudflare"
+      ]
+    },
+    {
+      "group": "Focus Areas",
+      "items": [
+        "Full-stack apps",
+        "Assistive tech",
+        "API design",
+        "AI automation"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Founder & Full-Stack Engineer",
+      "org": "ZERION TECH SYSTEMS",
+      "period": "Present",
+      "summary": "Design and ship industry platforms for transport SACCOs, food service, and enterprise clients — from product architecture to deployment.",
+      "highlights": [
+        "Built Z Crew App with Z Booking and Parcel Shop for Chuka Ungwana Sacco",
+        "Shipped Z Management Hub for SACCO admin, fleet, finance, and route performance",
+        "Delivered Z REST POS for hotels and restaurants, including The Duos Kitchen",
+        "Architecting Zerion ERP for private companies and government agencies"
+      ]
+    },
+    {
+      "role": "Software Engineering Intern",
+      "org": "Signvrse Ltd",
+      "period": "May 2026 – July 2026",
+      "summary": "Full-stack engineering on accessibility-focused products converting speech and text into Kenyan Sign Language experiences.",
+      "highlights": [
+        "Built React.js features and Node/Express/NestJS services",
+        "Worked with durable workflows, video rendering, and sign-language stitching",
+        "Prepared 3D assets (FBX → GLB) and cleaned animations in iClone",
+        "Deployed with Cloudflare and added JWT token-bucket API rate limiting"
+      ]
+    },
+    {
+      "role": "Personal Assistant to the CEO",
+      "org": "Forex Education & Trading Platform",
+      "period": "August 2025 – May 2026",
+      "summary": "Supported executive operations on a Forex education platform — organisation, communication, and follow-through on strategic work.",
+      "highlights": []
+    },
+    {
+      "role": "Software Developer & Project Manager",
+      "org": "Iguru Limited",
+      "period": "April 2025 – May 2025",
+      "summary": "Designed web applications while coordinating timelines and tasks in Jira to meet client requirements.",
+      "highlights": []
+    },
+    {
+      "role": "Software Developer Intern",
+      "org": "Iguru Limited",
+      "period": "October 2024 – December 2024",
+      "summary": "Full-stack web development with HTML, CSS, and JavaScript.",
+      "highlights": []
+    },
+    {
+      "role": "Computer Hardware Technician",
+      "org": "Lexar Computers",
+      "period": "January 2024 – May 2024",
+      "summary": "Diagnosed, upgraded, and repaired laptops and desktop systems at component level.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "school": "Kabarak University",
+      "detail": "BSc Business Information Technology",
+      "period": "September 2021 – Ongoing"
+    },
+    {
+      "school": "Power Learn Project",
+      "detail": "Software Development · AI in Business Intelligence · AI Safari",
+      "period": "January 2026 – Ongoing"
+    },
+    {
+      "school": "Cisco Networking Academy",
+      "detail": "Data Analytics Essentials · Python Essentials 1",
+      "period": "May – July 2025"
+    },
+    {
+      "school": "Bunimedia",
+      "detail": "Whiteboard Animation Training",
+      "period": "July – August 2025"
+    }
+  ],
+  "projects": [
+    {
+      "title": "ZERION TECH SYSTEMS",
+      "kind": "Company",
+      "description": "Founder-led software company building operational platforms for SACCOs and businesses — booking, logistics, POS, admin hubs, and ERP.",
+      "stack": [
+        "React",
+        "React Native",
+        "Node.js",
+        "Supabase",
+        "Render"
+      ],
+      "link": "https://zerion-website-frontend.vercel.app/",
+      "image": null
+    },
+    {
+      "title": "Z Crew App",
+      "kind": "Product",
+      "description": "Transport platform for Chuka Ungwana Sacco: digital seat ticketing (Z Booking), parcel collection/dispatch, and end-to-end tracking for crews on the road.",
+      "stack": [
+        "Mobile",
+        "Booking",
+        "Logistics"
+      ],
+      "link": "https://zerion-website-frontend.vercel.app/",
+      "image": "/products/z-crew-app.jpg",
+      "imageAlt": "Z Crew App sign-in screen for crew members"
+    },
+    {
+      "title": "Z Management Hub",
+      "kind": "Product",
+      "description": "SACCO admin command centre for transactions, revenue, vehicles & live tracking, finances, staff performance, and route analytics.",
+      "stack": [
+        "Dashboard",
+        "Fleet",
+        "Finance"
+      ],
+      "link": "https://zerion-website-frontend.vercel.app/",
+      "image": "/products/z-management-hub.jpg",
+      "imageAlt": "Z Management Hub dashboard showing SACCO revenue, tickets, parcels, and trips"
+    },
+    {
+      "title": "Z REST POS",
+      "kind": "Product",
+      "description": "Hotel and restaurant management system covering POS, stock, finances, and staff performance — in use at The Duos Kitchen.",
+      "stack": [
+        "POS",
+        "Inventory",
+        "Hospitality"
+      ],
+      "link": "https://zerion-website-frontend.vercel.app/",
+      "image": "/products/z-rest-pos.jpg",
+      "imageAlt": "Z REST POS dashboard with sales, orders, kitchen, and stock"
+    },
+    {
+      "title": "Z REST POS · Staff sign-in",
+      "kind": "Product",
+      "description": "Staff authentication flow for Z REST POS — keeping floor teams in and out of shifts with a clean, fast sign-in experience.",
+      "stack": [
+        "Auth",
+        "Hospitality"
+      ],
+      "link": "https://zerion-website-frontend.vercel.app/",
+      "image": "/products/z-rest-pos-signin.jpg",
+      "imageAlt": "Z REST POS staff sign-in page"
+    },
+    {
+      "title": "Zerion ERP",
+      "kind": "Product",
+      "description": "Modular ERP for private companies and government agencies: finance, HR, procurement, inventory, and connected reporting.",
+      "stack": [
+        "ERP",
+        "Finance",
+        "HR"
+      ],
+      "link": "https://zerion-website-frontend.vercel.app/",
+      "image": null
+    },
+    {
+      "title": "Signvrse Accessibility Stack",
+      "kind": "Internship",
+      "description": "Contributed to KSL translation tooling — React frontends, NestJS APIs, durable workflows, BVH/FBX animation pipelines, and Cloudflare deploys.",
+      "stack": [
+        "React",
+        "NestJS",
+        "Inngest",
+        "3D"
+      ],
+      "link": null,
+      "image": null
+    }
+  ]
+}
